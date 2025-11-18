@@ -1,4 +1,4 @@
-# 46 Game Tetris (Version 1) Using the pygame Library in Python
+# Game Tetris (Version 1) Using the pygame Library in Python
 
 import pygame
 from copy import deepcopy
@@ -154,6 +154,7 @@ while True:
 
     pygame.display.flip()
     clock.tick(FPS)
+
 
 
 
